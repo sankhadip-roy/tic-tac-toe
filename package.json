@@ -1,5 +1,5 @@
 {
-  "homepage": "http://Sankhadip-Roy.github.io/tic-tac-toe_web_app",
+  "homepage": "http://sankhadip-roy.github.io/tic-tac-toe",
   "dependencies": {
     "axios": "^1.3.4",
     "bootstrap": "^5.2.3",
